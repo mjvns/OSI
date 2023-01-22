@@ -1,0 +1,80 @@
+h1{
+    text-align: center;
+}
+
+.router{
+    background-color: lightsteelblue;
+    color: white;
+    width: 250px;
+    height: 150px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    margin-bottom: 200px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    position: relative;
+    top: 100px;
+    left: 1100px;
+}
+
+.personalcomputer{
+    border: 2px solid black;
+}
+
+.screen{
+    background-color: bisque;
+    border: 2px solid white;
+    border-radius: 5%;
+    margin: auto;
+    margin-top: 6%;
+    width: 80%;
+    height: 80%;
+    padding-top: 20%;
+    color: black;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+.system1{
+    background-color: deepskyblue;
+    color: white;
+    width: 300px;
+    height: 180px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 200px;
+    display: inline-block;
+}
+
+.system2{
+    background-color: red;
+    color: white;
+    width: 300px;
+    height: 180px;
+    text-align: center;
+    margin-left: 1700px;
+    display: inline-block;
+}
+
+.system3{
+    background-color: purple;
+    color: white;
+    width: 300px;
+    height: 180px;
+    text-align: center;
+    margin-left: 100px;
+    display: inline-block;
+    position: relative;
+}
+
+.system4{
+    background-color: greenyellow;
+    color: white;
+    width: 300px;
+    height: 180px;
+    text-align: center;
+    margin-left: 1700px;
+    display: inline-block;
+    position: relative;
+}
